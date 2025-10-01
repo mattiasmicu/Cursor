@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "panel/backend",
+  "node/daemon"
+]
+resolver = "2"
